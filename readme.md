@@ -5,3 +5,5 @@ Git is a free software.
 add new dev
 
 fix some bugs
+
+a friend visited
